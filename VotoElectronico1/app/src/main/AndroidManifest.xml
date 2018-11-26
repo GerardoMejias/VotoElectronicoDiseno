@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cr.ac.itcr.votoelectronico1">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logotec"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="Voto Electrónico"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AdminActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IngUsuarioActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IngUsuarioExitoActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditUsuarioListActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditUsuarioCamposActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditUsuarioExitoActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ElimUsuarioListActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ElimUsuarioExitoActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IngPropuestaActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IngresarPropuestaExitoActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditPropuestaListActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditPropuestaCamposActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditPropuestaExitoActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ElimPropuestaListActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ElimPropuestaExitoActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HistorialListActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HistorialDatosActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ResultadosListActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ResultadosDatosActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ParticipacionListActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ParticipacionDatosActivity"
+            android:label="Administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VotanteActivity"
+            android:label="Votante"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VotarActivity"
+            android:label="Votante"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VotarExitoActivity"
+            android:label="Votante"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

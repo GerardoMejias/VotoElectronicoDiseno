@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">VotoElectronico1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_ing_usuario">IngUsuarioActivity</string>
+    <string name="title_activity_ing_usuario_exito">IngUsuarioExitoActivity</string>
+    <string name="title_activity_edit_usuario">EditUsuarioActivity</string>
+    <string name="title_activity_edit_usuario_list">EditUsuarioListActivity</string>
+    <string name="title_activity_edit_usuario_campos">EditUsuarioCamposActivity</string>
+    <string name="title_activity_edit_usuario_exito">EditUsuarioExitoActivity</string>
+    <string name="title_activity_elim_usuario_list">ElimUsuarioListActivity</string>
+    <string name="title_activity_elim_usuario_exito">ElimUsuarioExitoActivity</string>
+    <string name="title_activity_ing_propuesta">IngPropuestaActivity</string>
+    <string name="title_activity_ingresar_propuesta_exito">IngresarPropuestaExitoActivity</string>
+    <string name="title_activity_edit_propuesta_list">EditPropuestaListActivity</string>
+    <string name="title_activity_edit_propuesta_campos">EditPropuestaCamposActivity</string>
+    <string name="title_activity_edit_propuesta_exito">EditPropuestaExitoActivity</string>
+    <string name="title_activity_elim_propuesta_list">ElimPropuestaListActivity</string>
+    <string name="title_activity_elim_propuesta_exito">ElimPropuestaExitoActivity</string>
+    <string name="title_activity_historial_list">HistorialListActivity</string>
+    <string name="title_activity_historial_datos">HistorialDatosActivity</string>
+    <string name="title_activity_resultados_list">ResultadosListActivity</string>
+    <string name="title_activity_resultados_datos">ResultadosDatosActivity</string>
+    <string name="title_activity_participacion_list">ParticipacionListActivity</string>
+    <string name="title_activity_participacion_datos">ParticipacionDatosActivity</string>
+    <string name="title_activity_votante">VotanteActivity</string>
+    <string name="title_activity_votar">VotarActivity</string>
+    <string name="title_activity_votar_exito">VotarExitoActivity</string>
+</resources>

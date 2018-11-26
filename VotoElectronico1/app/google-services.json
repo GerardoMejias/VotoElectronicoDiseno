@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793803709232",
+    "firebase_url": "https://votoelectronico-439bf.firebaseio.com",
+    "project_id": "votoelectronico-439bf",
+    "storage_bucket": "votoelectronico-439bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793803709232:android:dcf70d3360a6cbec",
+        "android_client_info": {
+          "package_name": "cr.ac.itcr.votoelectronico1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793803709232-3s6hvtf8ef64qmhko59tk8plh93a3r04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cr.ac.itcr.votoelectronico1",
+            "certificate_hash": "0730f710d73a6912c4183b6ff85e6242d4b6d85f"
+          }
+        },
+        {
+          "client_id": "793803709232-g2rq9vegm7gns2ls3fgsc20bu825q1c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_QYuBfvBqf9l6ZUNOtxljtCh-P7LEoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793803709232-g2rq9vegm7gns2ls3fgsc20bu825q1c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

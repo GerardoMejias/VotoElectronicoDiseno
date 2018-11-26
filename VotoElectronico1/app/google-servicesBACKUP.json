@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "257416356452",
+    "firebase_url": "https://votoelectronico-dcbfc.firebaseio.com",
+    "project_id": "votoelectronico-dcbfc",
+    "storage_bucket": "votoelectronico-dcbfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257416356452:android:dcf70d3360a6cbec",
+        "android_client_info": {
+          "package_name": "cr.ac.itcr.votoelectronico1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257416356452-hapbs6grlii3meu9eevhhknec8utmtc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-PgzRtAz9oH59UcnSM8q6YZ4UJlLyO2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
